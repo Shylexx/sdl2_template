@@ -1,0 +1,9 @@
+[submodule "sdl_template/lib/SDL2"]
+	path = sdl_template/lib/SDL2
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "sdl_template/lib/imgui"]
+	path = sdl_template/lib/imgui
+	url = https://github.com/Shylexx/imgui-docking.git
+[submodule "sdl_template/lib/glm"]
+	path = sdl_template/lib/glm
+	url = https://github.com/g-truc/glm.git

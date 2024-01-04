@@ -1,0 +1,12 @@
+build/
+bin/
+
+
+# clangd cache
+.cache/
+
+# vscode configs
+.vscode/
+
+# asset binary files
+#assets/*
